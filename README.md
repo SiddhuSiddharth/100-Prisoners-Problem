@@ -15,3 +15,7 @@ $$1 - ln(2)$$
 But we are experimenting the results with just 100 prisoners. Also there is a case where the win is biased based on the surrounding guards who decide to help them in their strategy. So a continous cycle can have atmost 1 chain $\geq 50$ so using that idea the mid point of that long cycle can be cut off by connecting it to the start of the cycle, where the start can be any point chosen in the cycle.
 
 There is also a visual representation of all the cycles formed in this <a href="https://github.com/SiddhuSiddharth/100-Prisoners-Problem/blob/master/Interactive_Loops.html">graph</a>.
+
+<img width="374" alt="image" src="https://github.com/SiddhuSiddharth/100-Prisoners-Problem/blob/master/100PP-cycle.png">
+
+This is a sample of the output.
