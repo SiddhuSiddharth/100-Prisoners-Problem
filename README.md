@@ -13,3 +13,5 @@ Cycles are a fundamental unit in graph theory that connects a set of nodes to fo
 The problem can further be expanded for 1000, 10000 or even more no. of prisoners. The common trend seems to be that the probability of prisoners winning the gamble is
 $$1 - ln(2)$$
 But we are experimenting the results with just 100 prisoners. Also there is a case where the win is biased based on the surrounding guards who decide to help them in their strategy. So a continous cycle can have atmost 1 chain $\geq 50$ so using that idea the mid point of that long cycle can be cut off by connecting it to the start of the cycle, where the start can be any point chosen in the cycle.
+
+There is also a visual representation of all the cycles formed in this <a href="https://github.com/SiddhuSiddharth/100-Prisoners-Problem/blob/master/Interactive_Loops.html">graph</a>.
